@@ -7,7 +7,7 @@ null,
 {"id":5,"expanded":false,"name":"Street","order":6,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":true,"name":"Houses","order":7,"parentId":0,"scrollX":1216,"scrollY":1456},
 {"id":7,"expanded":false,"name":"Tray house","order":8,"parentId":6,"scrollX":589.8181818181819,"scrollY":528.7272727272727},
-{"id":8,"expanded":true,"name":"Spooky house","order":9,"parentId":6,"scrollX":589.8181818181819,"scrollY":480.72727272727275},
+{"id":8,"expanded":true,"name":"Spooky house","order":9,"parentId":6,"scrollX":819,"scrollY":461},
 {"id":9,"expanded":false,"name":"Spooky house basement","order":10,"parentId":8,"scrollX":589.8181818181819,"scrollY":480.72727272727275},
 {"id":10,"expanded":false,"name":"Tray house/Spooky house","order":5,"parentId":3,"scrollX":1637.8181818181818,"scrollY":922.1818181818181}
 ]
